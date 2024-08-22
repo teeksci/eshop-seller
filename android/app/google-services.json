@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "1046654039471",
+    "project_id": "kokowa-6db23",
+    "storage_bucket": "kokowa-6db23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046654039471:android:6c558dba85dff8ee7d2b5a",
+        "android_client_info": {
+          "package_name": "com.anaisallou.kokowa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046654039471-54r93rnjlub6ekfjblj74kqi2an4hqib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDotjLUT-_XZlFzZPmV2qmfrP7-xbiJBRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046654039471-54r93rnjlub6ekfjblj74kqi2an4hqib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046654039471:android:c05598238a1a0cb57d2b5a",
+        "android_client_info": {
+          "package_name": "com.example.kokowa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046654039471-54r93rnjlub6ekfjblj74kqi2an4hqib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDotjLUT-_XZlFzZPmV2qmfrP7-xbiJBRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046654039471-54r93rnjlub6ekfjblj74kqi2an4hqib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046654039471:android:35fc91904646f0507d2b5a",
+        "android_client_info": {
+          "package_name": "com.teeks.eshop.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046654039471-54r93rnjlub6ekfjblj74kqi2an4hqib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDotjLUT-_XZlFzZPmV2qmfrP7-xbiJBRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046654039471-54r93rnjlub6ekfjblj74kqi2an4hqib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046654039471:android:9f0e2b4e2cf164cf7d2b5a",
+        "android_client_info": {
+          "package_name": "com.teeks.eshop.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046654039471-54r93rnjlub6ekfjblj74kqi2an4hqib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDotjLUT-_XZlFzZPmV2qmfrP7-xbiJBRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046654039471-54r93rnjlub6ekfjblj74kqi2an4hqib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
